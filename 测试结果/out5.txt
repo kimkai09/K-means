@@ -1,0 +1,16 @@
+类别(社会):['C17-Communication01', 'C17-Communication02', 'C17-Communication04',
+ 'C17-Communication06', 'C17-Communication08', 'C17-Communication10', 'C17-Communication12', 
+'C17-Communication14', 'C17-Communication18', 'C34-Economy0003', 'C34-Economy0016',
+'C4-Literature01', 'C5-Education004', 'C5-Education008', 'C7-History018']
+类别(历史):['C4-Literature04', 'C5-Education010', 'C5-Education012', 'C7-History001', 'C7-History002',
+ 'C7-History004', 'C7-History006', 'C7-History010', 'C7-History012', 'C7-History014', 'C7-History016']
+类别(经济):['C34-Economy0004', 'C34-Economy0006', 'C34-Economy0008', 'C34-Economy0010', 
+'C34-Economy0012', 'C34-Economy0014', 'C34-Economy0018', 'C39-Sports0017']
+类别(教育):['C39-Sports0005', 'C39-Sports0007', 'C39-Sports0019', 'C5-Education001', 'C5-Education003',
+ 'C5-Education006', 'C5-Education014', 'C5-Education016', 'C5-Education018']
+类别(体育):['C39-Sports0001', 'C39-Sports0003', 'C39-Sports0009', 'C39-Sports0011', 'C39-Sports0013',
+ 'C39-Sports0015']
+类别(文化):['C17-Communication16', 'C34-Economy0002', 'C4-Literature03', 'C4-Literature06', 
+'C4-Literature08', 'C4-Literature10', 'C4-Literature12', 'C4-Literature14', 'C4-Literature16', 
+'C4-Literature18', 'C7-History008']
+本次分类总样本数目为:60 其中正确分类数目为:44 正确率为：0.7333333333333333
